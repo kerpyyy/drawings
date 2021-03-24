@@ -19,6 +19,9 @@ Il faudra pouvoir créer des rectangles, triangles, ellipses.
     </svg>
     ```
 
+coucou
+
+
 * Créer à chaque fois les constructeurs et getter/setter de chaque classe
 * S'il existe des propriétés communes entre chacune des classes, créer une classe mère qui sera héritée par les autres classes
 * Créer un autoloader pour charger automatiquement nos classes
